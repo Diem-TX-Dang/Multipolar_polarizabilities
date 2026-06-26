@@ -6,11 +6,11 @@ from Wannier functions, and for evaluating the natural optical activity (rotator
 
 This code is provided for the paper: "Multipolar polarizabilities in materials: ab initio calculations with Wannier functions".
 
-                                     [link to be added upon publication]
+         [link to be added upon publication]
 
 It extends the Wannier-basis methodology of the vdW-WanMBD code:
 
-                                     https://www.sciencedirect.com/science/article/pii/S0010465525000281
+         https://www.sciencedirect.com/science/article/pii/S0010465525000281
 
 Authors: Diem Thi-Xuan Dang, Dai-Nam Le, and Lilia Woods.
 
