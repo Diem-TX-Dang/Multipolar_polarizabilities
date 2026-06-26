@@ -201,17 +201,17 @@ Examples:
 
 • Multipolar polarizabilities (Stages 1 and 2) are included for six representative bulk layered materials:
 
-      examples/1_graphite
-      examples/2_hBN
-      examples/3_MoS2
-      examples/4_2H-WTe2
-      examples/5_Td-WTe2
-      examples/6_Te
+      examples/graphite
+      examples/bulk hBN
+      examples/bulk MoS2
+      examples/bulk 2H-WTe2
+      examples/bulk Td-WTe2
+      examples/bulk Te
 
 • Rotatory power and ellipticity (Stage 3) are included for two materials:
 
-      examples/5_Td-WTe2
-      examples/6_Te
+      examples/bulk Td-WTe2
+      examples/bulk Te
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
