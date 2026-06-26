@@ -57,9 +57,9 @@ DEPENDENCIES:
 - Stages 2 and 3: python3 with Numpy, Scipy and Matplotlib.
 
 ------------------------------------------------------------------------------------------------------------------------------------
-
+==
 STAGE 0 :  Electronic structure and maximally localized Wannier functions  (Quantum ESPRESSO + Wannier90)
-
+==
 This preparatory stage produces the DFT electronic structure and the maximally localized Wannier functions (MLWFs) 
 that all later stages rely on. No code is distributed here; it uses the standard Quantum ESPRESSO and Wannier90 executables.
 
