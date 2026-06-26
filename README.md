@@ -71,6 +71,7 @@ Usage Notes:
 • These steps yield, in particular, the 'seedname.win' / 'seedname.chk' and related Wannier90 files   required to run Stage 1.
 
 STAGE 1 :  berry_multipolar_polarizabilities.F90  /  postw90_multipolar_polarizabilities.x
+====================================================================================================================================
 
 berry_multipolar_polarizabilities.F90 is a modified version of the Wannier90 module src/postw90/berry.F90.
 In addition to the standard "Berry phase" quantities, it computes the optical polarizabilities of the system at imaginary frequency
@@ -111,6 +112,7 @@ Usage Notes:
         Column 3 : Im(polarizability)
 
 STAGE 2 :  Pade_approximant_convert_imaginary_to_real_frequencies.py
+====================================================================================================================================
 
 Analytic continuation of the polarizabilities from the imaginary-frequency axis f(i*xi) to the real-frequency axis 
 f(omega + i*eta), using a self-consistent two-point (Thiele) Pade approximant.
@@ -149,6 +151,7 @@ Usage Notes:
   'seedname'-polarizability-dq_yxz_real.dat are the inputs required by Stage 3.
 
 STAGE 3 :  compute_rotatory.py
+====================================================================================================================================
 
 Computes the natural optical activity of the material from the real-frequency dipole–quadrupole polarizability, following:
 
