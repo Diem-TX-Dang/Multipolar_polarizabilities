@@ -1,7 +1,7 @@
 # Multipolar_polarizabilities
 
 A workflow for calculating multipolar (dipole-dipole, dipole–quadrupole, quadrupole–quadrupole, dipole–octupole) polarizabilities
-from Wannier functions, and for evaluating the natural optical activity (rotatory power and ellipticity) of materials.
+from Maximally Localized Wannier Functions, and for evaluating the natural optical activity (rotatory power and ellipticity) of materials.
 ----------------------------------------------------------------------------------------------------------------------------------
 
 This code is provided for the paper: "Multipolar polarizabilities in materials: ab initio calculations with Wannier functions".
